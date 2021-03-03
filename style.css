@@ -1,0 +1,16 @@
+.demo{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.75);
+}
+
+body{
+    border: 2px solid green;
+    margin: 0;
+    height: 100vh;
+    box-sizing: border-box;
+}
